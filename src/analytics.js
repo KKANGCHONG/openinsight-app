@@ -9,4 +9,4 @@ function analyzeData(data) {
     ...item,
     timestamp: formatDate(Date.now())
   }));
-  console.log("Analysis complete:", result);
+  console.log("Analysis complete:", result)};
