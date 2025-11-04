@@ -1,4 +1,4 @@
-// main.js
+// src/main.js
 import { formatDate } from "./utils.js";
 import { APP_NAME, VERSION } from "./config.js";
 
