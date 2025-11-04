@@ -1,0 +1,21 @@
+{
+  "name": "openinsight-app",
+  "version": "1.0.0",
+  "description": "A lightweight analytics demo project for CI/CD validation.",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "build": "node src/analytics.js",
+    "test": "echo \"Running basic test suite...\" && exit 0"
+  },
+  "keywords": [
+    "ci",
+    "cd",
+    "demo",
+    "nodejs",
+    "openinsight"
+  ],
+  "author": "Team OpenInsight",
+  "license": "MIT",
+  "dependencies": {}
+}
